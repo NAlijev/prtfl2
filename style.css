@@ -1,0 +1,103 @@
+body {
+  font: 20px Montserrat, sans-serif;
+  line-height: 1.8;
+  color: #f5f6f7;
+}
+
+p {
+  font-size: 16px;
+}
+
+.margin {
+  margin-bottom: 35px;
+}
+
+.bg-1 {
+  background-color: #c2976c;
+  /* Green */
+  color: white;
+}
+
+.bg-2 {
+  background-color: #7c817b;
+  /* Dark Blue */
+  color: #ffffff;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.bg-3 {
+  background-color: #ffffff;
+  /* White */
+  color: #555555;
+}
+
+.bg-4 {
+  background-color: #2f2f2f;
+  /* Black Gray */
+  color: #fff;
+}
+
+.container-fluid {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.container-spacing {
+  padding-bottom: 60px;
+}
+
+.navbar-brand {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+  letter-spacing: normal;
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+  color: #c2976c !important;
+}
+
+.img-gallery {
+  width: 400px;
+  height: 500px;
+}
+
+.logo1 {
+  color: white;
+  font-size: 200px;
+  margin: 50px;
+}
+
+.logo2 {
+  color: white;
+  font-size: 200px;
+  margin: 50px;
+}
+
+.gallery-center {
+  display: block;
+  margin: auto;
+}
+
+img {
+  opacity: 0.9;
+}
+
+img:hover {
+  opacity: 1;
+}
+
+.btn-sm {
+  margin-top: 10px;
+  margin-left: 10px;
+}
